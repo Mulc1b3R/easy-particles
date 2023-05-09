@@ -1,0 +1,34 @@
+{
+  "name": "particles.js",
+  "version": "2.0.1",
+  "description": "A JavaScript library for creating particles and responsive webpage backgrounds",
+  "homepage": "https://github.com/psico-mojo/easy-particles.js",
+  "scripts": {
+    "start": "http-server -p 3000",
+    "test" : "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psico-mojo/easy-particles.js.git"
+  },
+  "keywords": [
+    "particles",
+    "particle",
+    "canvas"
+  ],
+  "author": "Vincent Garreau and psico",
+  "license": "MIT",
+  "files": [
+    "particles.js",
+    "particles.min.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/VincentGarreau/particles.js/issues"
+  },
+  "dependencies": {
+    "particles.js": "^2.0.0"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

@@ -1,7 +1,19 @@
 ```html
-
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Easy Particles.js Demo</title>
+  </head>
+  <body>
+    <canvas id="myCanvas" width="400" height="200"></canvas>
+    <script src="https://github.com/psico-mojo/easy-particles.js/blob/main/particles.js"></script>
+    <script src="https://github.com/psico-mojo/easy-particles.js/blob/main/js/app.js"></script>
+  </body>
+</html>
 ```
+
+
 
 # easy-particles.js
 

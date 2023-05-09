@@ -7,8 +7,8 @@
   </head>
   <body>
     <canvas id="myCanvas" width="400" height="200"></canvas>
-    <script src="https://github.com/psico-mojo/easy-particles.js/blob/main/particles.js"></script>
-    <script src="https://github.com/psico-mojo/easy-particles.js/blob/main/js/app.js"></script>
+    <script src="particles.js"></script>
+    <script src="app.js"</script>
   </body>
 </html>
 ```

@@ -39,12 +39,14 @@ Populate your "index.html" with some web page stuff and you are good to go...
 
 clone the repo ; https://github.com/psico-mojo/easy-particles.js.git
 
+alt ; https://github.com/Mulc1b3R/easy-particles.git
+
 'npm install'...           this adds the dev server.
 
 'npm start' ...             this starts the dev server on ;  localhost:3000/ 
 
 #demo
 
-view the live demo here ; https://easy-particles-js.vercel.app/
+view the live demo here ; https://easy-particles-js.vercel.app/       
 
 

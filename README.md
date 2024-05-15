@@ -25,6 +25,12 @@ version of particles.js with added http server to aid viewing changes made durin
 
 the main purpose of this repo is for the quick and easy development of responsive web page backgrounds.
 
+Attempting to 'touch' any particle results in 'repulsion' , you can chase them around the screen
+
+with your cursor , click ' onscreen' to generate more particles and increase the complexity of the
+
+environment...
+
 Add a new background image from a local or remote source in the "url" field in "styles.css" .
 
 Populate your "index.html" with some web page stuff and you are good to go...

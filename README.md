@@ -41,4 +41,4 @@ clone the repo ; https://github.com/psico-mojo/easy-particles.js.git
 
 view the live demo here ; https://easy-particles-js.vercel.app/
 
-<iframe src="https://easy-particles-js.vercel.app/" frameborder="0"></iframe>
+
